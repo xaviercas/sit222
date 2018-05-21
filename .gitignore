@@ -1,0 +1,7 @@
+# Unignore all file with extensions but not binaries
+# https://stackoverflow.com/questions/5711120/gitignore-without-binary-files
+!*.*
+# 
+.vagrant/
+.DS_Store
+
