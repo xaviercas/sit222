@@ -1,10 +1,7 @@
-# CS Course Playground
+# SIT222
 
-## Units
 
-- SIT222
-
-## What?
+## About
 
 Various snipets to explore new concepts and some C programing. 
 
@@ -12,7 +9,7 @@ Various snipets to explore new concepts and some C programing.
 
 Uses Vagrant to launch an unbutu vm (requires virtualbox).
 
-`vagrant up` then `vagrant ssh` & `vagrant halt` to shut down vm.
+Start with`vagrant up` then `vagrant ssh` into the box & `vagrant halt` to shut down vm.
 
 ## Thanks to
 
