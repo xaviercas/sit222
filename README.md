@@ -9,7 +9,9 @@ Various snipets to explore new concepts and some C programing.
 
 Uses Vagrant to launch an unbutu vm (requires virtualbox).
 
-Start with`vagrant up` then `vagrant ssh` into the box & `vagrant halt` to shut down vm.
+Start with`vagrant up` then `vagrant ssh` and `cd /SIT222`
+
+`exit` and shut down vm with `vagrant halt`.
 
 ## Thanks to
 
